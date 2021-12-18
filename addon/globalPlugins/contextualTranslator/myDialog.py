@@ -49,18 +49,18 @@ def openBrowserWindow(label, meaning, directive, default= False):
 
 #dictionaries name and url
 dictionaries_nameAndUrl= [
-	('إنجليزي ⇔ عربي, عربي ⇔ إنجليزي', 'https://www.almaany.com/en/context/en-ar/'),
-	('فرنسي ⇔ عربي, عربي ⇔ فرنسي', 'https://www.almaany.com/fr/context/fr-ar/'),
-	('برتغالي ⇔ عربي, عربي ⇔ برتغالي', 'https://www.almaany.com/pt/context/pt-ar/'),
-	('إسباني ⇔ عربي, عربي ⇔ إسباني', 'https://www.almaany.com/es/context/es-ar/'),
-	('تركي ⇔ عربي, عربي ⇔ تركي', 'https://www.almaany.com/tr/context/tr-ar/'),
+	('إنجليزي ⇔ عربي, عربي ⇔ إنجليزي', 'https://www.almaany.com/en/context/ar-en/'),
+	('فرنسي ⇔ عربي, عربي ⇔ فرنسي', 'https://www.almaany.com/fr/context/ar-fr/'),
+	('إسباني ⇔ عربي, عربي ⇔ إسباني', 'https://www.almaany.com/es/context/ar-es/'),
+	('تركي ⇔ عربي, عربي ⇔ تركي', 'https://www.almaany.com/tr/context/ar-tr/'),
+	('ألماني ⇔ عربي, عربي ⇔ ألماني', 'https://www.almaany.com/de/context/ar-de/'),
+	('روسي ⇔ عربي, عربي ⇔ روسي', 'https://www.almaany.com/ru/context/ar-ru/'),
+	('برتغالي ⇔ عربي, عربي ⇔ برتغالي', 'https://www.almaany.com/pt/context/ar-pt/'),
 	('عربي ⇐ فارسي', 'https://www.almaany.com/fa/context/ar-fa/'),
 	('فارسي ⇐ عربي', 'https://www.almaany.com/fa/context/fa-ar/'),
-	('اندونيسي ⇔ عربي, عربي ⇔ اندونيسي', 'https://www.almaany.com/id/context/id-ar/'),
-	('ألماني ⇔ عربي, عربي ⇔ ألماني', 'https://www.almaany.com/de/context/de-ar/'),
+	('اندونيسي ⇔ عربي, عربي ⇔ اندونيسي', 'https://www.almaany.com/id/context/ar-id/'),
 	('عربي ⇐ اردو', 'https://www.almaany.com/ar/context/ar-ur/'),
-	('اردو ⇐ عربي', 'https://www.almaany.com/ur/context/ur-ar/'),
-	('روسي ⇔ عربي, عربي ⇔ روسي', 'https://www.almaany.com/ru/context/ru-ar/')
+	('اردو ⇐ عربي', 'https://www.almaany.com/ur/context/ur-ar/')
 ]
 
 class MyDialog(wx.Dialog):
