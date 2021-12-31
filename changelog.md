@@ -1,3 +1,3 @@
-## Changes for 0.2 ##
+## Changes for 0.3 ##
 
-* Initial version.
+* Add Turkish translation.

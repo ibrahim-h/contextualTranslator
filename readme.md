@@ -1,7 +1,7 @@
 # Contextual Translator #
 
 Author: Ibrahim Hamadeh  
-Download [version 0.2][1]  
+Download [version 0.3][1]  
 
 This addon helps you get the meaning of words or phrases through the almaany.com website.  
 Thus in order to use this addon, you need to be connected to the internet.  
@@ -48,8 +48,12 @@ Contextual dictionaries available and being used in this addon are:
 *	اردو ⇐ عربي
 *	روسي ⇔ عربي, عربي ⇔ روسي
 
+### Changes for 0.3 .
+
+*	Add Turkish translation.
+
 ### Changes for 0.2 .
 
 *	Initial version.
 
-[1]: https://github.com/ibrahim-h/contextualTranslator/releases/download/0.2/contextualTranslator-0.2.nvda-addon
+[1]: https://github.com/ibrahim-h/contextualTranslator/releases/download/0.3/contextualTranslator-0.3.nvda-addon

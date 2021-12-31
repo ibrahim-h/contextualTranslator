@@ -26,7 +26,7 @@ addon_info = {
 	"addon_description": _("""Retreaves translation of words or phrases in several Arabic-Foreign dictionaries.
 The default gesture for the addon is: Alt+ Shift+ C."""),
 	# version
-	"addon_version": "0.2",
+	"addon_version": "0.3",
 	# Author(s)
 	"addon_author": "Ibrahim Hamadeh <ibra.hamadeh@hotmail.com>",
 	# URL for the add-on documentation support

@@ -1,7 +1,7 @@
 # المُترْجِم السِياقي #
 
 كاتب الإضافة: ابراهيم حمادة  
-تحميل [الإصدار 0.2][1]  
+تحميل [الإصدار 0.3][1]  
 
 تُساعِدُكَ هذه الإضافة بالحصول على معنى الكلمات, أو العبارات من خلال موقع Almaany.com.  
 وبالتالي من أجل استخدام هذه الإضافة، يجب أن تكون متصلا بالإنترنت.  
@@ -49,8 +49,12 @@
 *	عربي ⇐ اردو
 *	اردو ⇐ عربي
 
+### Changes for 0.3 .
+
+*	ترجمةْ الإضافة للغة التُركية.
+
 ### Changes for 0.2 .
 
 *	Initial version.
 
-[1]: https://github.com/ibrahim-h/contextualTranslator/releases/download/0.2/contextualTranslator-0.2.nvda-addon
+[1]: https://github.com/ibrahim-h/contextualTranslator/releases/download/0.3/contextualTranslator-0.3.nvda-addon
